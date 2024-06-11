@@ -1,0 +1,32 @@
+What did I accomplish in this project? Permalink
+Utilizing Machine Learning algorithms to understand and evaluate stock position strategies using technical indicators
+
+Data collection and preprocessing of stocks (opening and closing prices, highs and lows)
+Data collection and preprocessing of technical indicators (RSI, NATR, APO, etc.)
+Unsupervised learning using GMM and PCA
+Supervised learning of trading policies with DNNs, CNNs, LSTM, and Random Forest models
+
+
+
+What is query-my-spotify? Permalink
+A web app (powered by a React frontend and Flask backend) that allows users unique ways to interact with their Spotify music library, and Spotify’s entire music catalog as a whole.
+
+The first and primary use case for this app is to be able to help users choose what music they want to listen to based on parameters ranging from very broad to incredibly specific. The data to perform these searches comes from the Spotify Web API, along with (eventually) data analysis and Machine Learning algorithms.
+A research option will allow users to receive some data analysis on tracks, albums, playlists, artists, and more. This can help curious users discover the data behind their music, and also internally help build out the search and discover features of the app during development
+A discover option (coming later) to use machine learning to recommend music to users based on parameters (similar to the search feature but expanding beyond their own library)
+
+
+
+▸Conducted performance and accuracy testing on these neuromorphic approaches, identifying their strengths and limitations in solving complex problems compared to traditional reinforcement learning methods.
+
+
+
+I am currently a Graduate student at Georgia Tech, working towards a Master's in Computer Science with a concentration in Machine Learning. I am enrolled in an accelerated Master's program, so after I graduate with a Bachelor's degree in December 2023, I will be pursuing a Master's degree in Computer Science with an expected graduation in December 2024.
+I have a relentless passion for technology and innovation, continually focused on curating and strengthening my versatile skillset. I've been fortunate to engage in many invaluable experiences, including two AI/ML internships at Lockheed Martin, where I transformed raw projects into streamlined solutions, reducing manual efforts and optimizing user experiences. My commitment extends to academia, where I serve as an undergraduate teaching assistant or an AI course and have engaged in cutting-edge research at Georgia Tech. Beyond coursework and formal roles, my ambitions drive me to undertake personal projects, where I merge my technical skillset and personal passions to tackle unique problems.
+What motivates me most is the desire to make a meaningful impact, foster constant growth, and nourish my passions. 
+
+
+
+
+$primary-color: #6190E8;
+$secondary-color: #A7BFE8;
